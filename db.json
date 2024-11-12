@@ -1,0 +1,9 @@
+{
+    "users":[{
+        "id":"1",
+        "name":"admin",
+        "email":"admin@gmail.com",
+        "password":"admin",
+        "token":"1234"
+    }]
+}
